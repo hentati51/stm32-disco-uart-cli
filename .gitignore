@@ -1,0 +1,39 @@
+# CubeIDE specific files
+.cproject
+.project
+.settings/
+
+# Build directories
+Debug/
+Release/
+
+# CubeMX files
+*.ioc
+*.launch
+
+# OS-specific files
+*.DS_Store
+*.swp
+*.swo
+*.tags
+
+# Executables and libraries
+*.elf
+*.bin
+*.hex
+*.map
+*.d
+
+# Object files
+*.o
+*.obj
+*.a
+
+# Assembly listing files
+*.lst
+*.lss
+
+# Compiler-generated files
+*.d
+*.dts
+*.dtb
