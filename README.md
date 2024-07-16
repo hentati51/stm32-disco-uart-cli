@@ -8,7 +8,7 @@ This project was undertaken with the goal of learning **FreeRTOS** and mastering
 
 ### Commands
 
-- **<LedColor> <operation> <param_if_needed>**
+- `<LedColor> <operation> <param (if needed)>`
 
 **Note:** Each command should be terminated with a newline character `\n`.
 
